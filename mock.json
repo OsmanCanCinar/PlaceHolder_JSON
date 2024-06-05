@@ -1,0 +1,129 @@
+{
+  "teachers": [
+    {
+      "name": "Kiara",
+      "surname": "Nguyen",
+      "age": 23,
+      "gender": "Female"
+    },
+    {
+      "name": "Leo",
+      "surname": "Rodriguez",
+      "age": 18,
+      "gender": "Male"
+    },
+    {
+      "name": "Maya",
+      "surname": "Johnson",
+      "age": 21,
+      "gender": "Female"
+    },
+    {
+      "name": "Noah",
+      "surname": "Williams",
+      "age": 19,
+      "gender": "Male"
+    },
+    {
+      "name": "Olivia",
+      "surname": "Brown",
+      "age": 20,
+      "gender": "Female"
+    },
+    {
+      "name": "Pranav",
+      "surname": "Harris",
+      "age": 22,
+      "gender": "Male"
+    },
+    {
+      "name": "Quinn",
+      "surname": "Lewis",
+      "age": 18,
+      "gender": "Non-binary"
+    },
+    {
+      "name": "Riley",
+      "surname": "Robinson",
+      "age": 21,
+      "gender": "Female"
+    },
+    {
+      "name": "Sofia",
+      "surname": "Walker",
+      "age": 19,
+      "gender": "Female"
+    },
+    {
+      "name": "William",
+      "surname": "Scott",
+      "age": 20,
+      "gender": "Male"
+    }
+  ],
+  "students": [
+    {
+      "name": "Alice",
+      "surname": "Jones",
+      "age": 18,
+      "gender": "Female"
+    },
+    {
+      "name": "Bob",
+      "surname": "Smith",
+      "age": 21,
+      "gender": "Male"
+    },
+    {
+      "name": "Charlie",
+      "surname": "Lee",
+      "age": 19,
+      "gender": "Non-binary"
+    },
+    {
+      "name": "Diana",
+      "surname": "Garcia",
+      "age": 20,
+      "gender": "Female"
+    },
+    {
+      "name": "Ethan",
+      "surname": "Miller",
+      "age": 22,
+      "gender": "Male"
+    },
+    {
+      "name": "Fiona",
+      "surname": "Brown",
+      "age": 18,
+      "gender": "Female"
+    },
+    {
+      "name": "Gabriel",
+      "surname": "Davis",
+      "age": 21,
+      "gender": "Male"
+    },
+    {
+      "name": "Hannah",
+      "surname": "Clark",
+      "age": 19,
+      "gender": "Female"
+    },
+    {
+      "name": "Isaac",
+      "surname": "Wilson",
+      "age": 20,
+      "gender": "Male"
+    },
+    {
+      "name": "Jasmine",
+      "surname": "Taylor",
+      "age": 22,
+      "gender": "Female"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
